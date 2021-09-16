@@ -1,4 +1,4 @@
-# Piano-Skills-Assessment
+# Piano-Skills-Assessment (IEEE MMSP, 2021)
 
 ## Introduction
 Can a computer determine a piano player's skill level? Is it preferable to base this assessment on visual analysis of the player's performance or should we trust our ears over our eyes? Since current CNNs have difficulty processing long video videos, how can shorter clips be sampled to best reflect the players skill level? In this work, we collect and release a first-of-its-kind dataset for multimodal skill assessment focusing on assessing piano player's skill level, answer the asked questions, initiate work in automated evaluation of piano playing skills and provide baselines for future work. 
