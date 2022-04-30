@@ -3,12 +3,16 @@
 ## Introduction
 Can a computer determine a piano player's skill level? Is it preferable to base this assessment on visual analysis of the player's performance or should we trust our ears over our eyes? Since current CNNs have difficulty processing long video videos, how can shorter clips be sampled to best reflect the players skill level? In this work, we collect and release a first-of-its-kind dataset for multimodal skill assessment focusing on assessing piano player's skill level, answer the asked questions, initiate work in automated evaluation of piano playing skills and provide baselines for future work. 
 
+### Concept
 <p align="left"> <img src="concept.png?raw=true" alt="piano skills assessment" width="400"/> </p>
-**SL** - Song Difficulty Level; **PL** - Pianists' Skills Level
+<b>SL</b> - Song Difficulty Level; <b>PL</b> - Pianists' Skills Level
+
+### Framework
+<p align="left"> <img src="framework.png?raw=true" alt="piano skills assessment framework" width="700"/>
 
 ## Dataset
 
-Dataset can be downloaded from: https://drive.google.com/drive/folders/1yihZUvwPHzM3SLPUH_UblT8_EgriPhco?usp=sharing. Please 7-zip to uncompress the files.
+Dataset containing processed audios and videos can be downloaded from: https://drive.google.com/drive/folders/1yihZUvwPHzM3SLPUH_UblT8_EgriPhco?usp=sharing. Please 7-zip to uncompress the files.
 
 Please feel free to reach out to me if you face any problem or have any questions.
 
