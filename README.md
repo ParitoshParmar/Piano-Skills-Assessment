@@ -5,9 +5,9 @@ Can a computer determine a piano player's skill level? Is it preferable to base 
 
 ## Dataset
 
-**Processed videos** can be downloaded from: https://drive.google.com/drive/folders/1s-jIvETvhOOUcMutRkZB4KEDRp_dtpW_?usp=sharing. Please 7-zip to uncompress the files.
+Dataset can be downloaded from: https://drive.google.com/drive/folders/1yihZUvwPHzM3SLPUH_UblT8_EgriPhco?usp=sharing. Please 7-zip to uncompress the files.
 
-**Processed audios** can be downloaded from: https://drive.google.com/file/d/1E9hbipcv8YD8vfRWSDewM-3TuBKo301J/view?usp=sharing
+Please feel free to reach out to me if you face any problem or have any questions.
 
 If you find this dataset useful, please consider citing
 ```
