@@ -25,3 +25,6 @@ If you find this dataset useful, please consider citing
   year={2021}
 }
 ```
+
+## Our Related Work
+If you want to take a break from playing piano and do some workout, make sure to not injure yourself and maintain correct form using our camera-based Fitness-AQA workout posture/form checker: https://github.com/ParitoshParmar/Fitness-AQA!
